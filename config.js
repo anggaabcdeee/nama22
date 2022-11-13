@@ -1,21 +1,21 @@
 let fs = require('fs')
 
 //Info maszeh
-global.owner = ["6285832261977"]
-global.mods = ["6285832261977"]
+global.owner = ["6281548907132"]
+global.mods = ["6281548907132"]
 
-global.namabot = 'angga.boy' //nama BOT Lu
-global.packname = 'angga'
-global.author = 'angga Gans' //nama Owner
-global.ownernya = '6285832261977'
-global.linkyt = 'https://youtube.com/channel/UCmEQy5B3GhmfNVSrHEzv-uA' //link yt lu
+global.namabot = 'AnggaBot' //nama BOT Lu
+global.packname = 'AnggaJB'
+global.author = 'AnggaBot' //nama Owner
+global.ownernya = '6281548907132'
+global.linkyt = 'https://www.instagram.com/rga211_' //link yt lu
 global.linkig = 'https://youtube.com/channel/UC-H_-1wPu-eUnxcKb-Er3YQ' //link ig
 global.linkgh = '-' //link github lu
-global.titlebot = `⫹⫺ WhatsApp Bot | By 𝙳𝚎𝚏𝚏𝚛𝚒 𝙶𝚊𝚗𝚜`
+global.titlebot = `⫹⫺ WhatsApp Bot | By AnggaBot`
 global.wm2 = 'hoh' //ganti aja kalau mau
-global.wm = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛'
+global.wm = 'Angga'
 global.colong1 = 'Ciss 📸'
-global.colong2 = '𝑮𝒂𝒏𝒔𝑩𝑶𝑻𝒛シ︎'
+global.colong2 = 'Anggaシ︎'
 global.kontak2 = [
 ['6285832261977', '𓂺', '𝙊𝙬𝙣𝙚𝙧', 'Sᴀᴠᴇ Aᴊᴀ Yᴇ Oᴡɴᴇʀ Kᴜ Bᴀɪᴋ Kᴏᴋ', true],
 ]
